@@ -1,0 +1,2 @@
+liblist -a STUDENTRSC
+system "CRTRPGMOD MODULE(STUDENTRSC/STUDENTRSC) SRCSTMF('studentrsc1.rpgle') "
